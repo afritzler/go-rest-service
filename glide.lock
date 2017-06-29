@@ -1,6 +1,10 @@
 hash: e1159d6ca416bb353043473ea090a9d55f52581a8b73bace088486fafcdcb5c7
-updated: 2017-06-28T14:45:05.319237879+02:00
+updated: 2017-06-29T09:58:41.894853022+02:00
 imports:
+- name: github.com/afritzler/go-rest-service
+  version: c5a8cfbe4bda3ec8ca29b9608b838f1d52d9952f
+  subpackages:
+  - pkg
 - name: github.com/gorilla/context
   version: 08b5f424b9271eedf6f9f0ce86cb9396ed337a42
 - name: github.com/gorilla/mux
